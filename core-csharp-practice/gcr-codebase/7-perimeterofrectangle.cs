@@ -2,7 +2,7 @@
 
 using System;
 
-class problem{
+class Problem{
 	static void Main(String[] args){
 		int length=10;
 		int width=10;

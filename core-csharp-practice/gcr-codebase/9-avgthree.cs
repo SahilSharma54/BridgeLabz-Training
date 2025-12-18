@@ -1,7 +1,7 @@
 
 using System;
 
-class problem{
+class Problem{
 	static void Main(String[] args){
 		int num1=10;
 		int num2=10;

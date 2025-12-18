@@ -1,7 +1,7 @@
 
 using System;
 
-class problem{
+class Problem{
 	static void Main(String[] args){
 		int radius=10;
 		int height=10;

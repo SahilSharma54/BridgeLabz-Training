@@ -2,7 +2,7 @@
 
 using System;
 
-class problem{
+class Problem{
 	static void Main(String[] args){
 		int kilometer=10;
 		double miles=kilometer*0.621371;

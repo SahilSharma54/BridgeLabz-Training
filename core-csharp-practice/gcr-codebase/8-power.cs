@@ -2,7 +2,7 @@
 
 using System;
 
-class problem{
+class Problem{
 	static void Main(String[] args){
 		int basee=2;
 		int exponent=2;

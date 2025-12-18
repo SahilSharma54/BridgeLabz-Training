@@ -1,7 +1,7 @@
 
 using System;
 
-class program{
+class Program{
 
   static void Main(String[] args){
 		Console.WriteLine("Welcome to Bridgelabz!");

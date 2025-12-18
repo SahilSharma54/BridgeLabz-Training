@@ -2,7 +2,7 @@
 
 using System;
 
-class problem{
+class Problem{
 	static void Main(String[] args){
 		int principal=10;
 		int rate=10;
