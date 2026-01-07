@@ -9,3 +9,7 @@ Work Done => Completed the given assignments on OOPs topics
 Completed the given scenario based questions on OOPs
 Topics Covered are encapsulation, abtraction, inheritance
 
+07/01/2026
+
+Completed the given scenario based question on Employee Wages
+Topics covered are OOPs implemented in this scenario
