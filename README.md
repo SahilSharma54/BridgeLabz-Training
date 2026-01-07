@@ -13,3 +13,4 @@ Topics Covered are encapsulation, abtraction, inheritance
 
 Completed the given scenario based question on Employee Wages
 Topics covered are OOPs implemented in this scenario
+Completed the assignment of Encapsulation, Polymorphism, Interface and Abstract Class
