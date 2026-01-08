@@ -1,16 +1,16 @@
-namespace Models
+class Employee
 {
-    public abstract class Employee
+    private int wagePerHour;
+    private int workingHours;
+
+    public Employee(int wagePerHour, int workingHours)
     {
-        protected int WagePerHour;
-        protected int WorkingHours;
+        this.wagePerHour = wagePerHour;
+        this.workingHours = workingHours;
+    }
 
-        protected Employee(int wagePerHour, int workingHours)
-        {
-            WagePerHour = wagePerHour;
-            WorkingHours = workingHours;
-        }
-
-        public abstract int CalculateWage();
+    public int CalculateWage()
+    {
+        return wagePerHour * workingHours;
     }
 }

@@ -1,98 +1,58 @@
 using System;
-using Models;
-using Utilities;
 
-namespace UI
+class EmployeeMenu
 {
-    public class EmployeeMenu
+    static IEmployeeUtility utility = new EmployeeUtility();
+
+    public static void ShowMenu()
     {
-        public static void ShowMenu()
+        Console.WriteLine("Press 1 - Check Attendance");
+        Console.WriteLine("Press 2 - Daily Wage (Full Time)");
+        Console.WriteLine("Press 3 - Part Time Wage");
+        Console.WriteLine("Press 4 - Switch Case Working Hours");
+        Console.WriteLine("Press 5 - Monthly Wage");
+        Console.WriteLine("Press 6 - Wage Till Condition");
+        Console.WriteLine("Press 7 - Exit\n");
+
+        Console.Write("Enter choice: ");
+        int choice = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine();
+
+        switch (choice)
         {
-            EmployeeUtility utility = new EmployeeUtility();
+            case 1: 
+            utility.UC1_CheckAttendance(); 
+            break;
 
-            Console.WriteLine("1. UC1 - Check Employee Attendance");
-            Console.WriteLine("2. UC2 - Calculate Full Time Wage");
-            Console.WriteLine("3. UC3 - Calculate Part Time Wage");
-            Console.WriteLine("4. UC5 - Calculate Monthly Wage");
-            Console.WriteLine("5. UC6 - Calculate Wage Till Condition");
-            Console.WriteLine("0. Exit\n");
+            case 2: 
+            utility.UC2_FullTimeDailyWage(); 
+            break;
 
-            Console.Write("Enter your choice: ");
-            int choice = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine();
+            case 3: 
+            utility.UC3_PartTimeDailyWage(); 
+            break;
 
-            switch (choice)
-            {
-                case 1:
-                    Console.WriteLine(
-                        utility.CheckEmployeeAttendance()
-                        ? "Employee is Present"
-                        : "Employee is Absent"
-                    );
-                    break;
+            case 4: 
+            utility.UC4_WorkingHoursSwitch(); 
+            break;
 
-                case 2:
-                    Console.Write("Enter Wage Per Hour: ");
-                    int ftWage = Convert.ToInt32(Console.ReadLine());
+            case 5: 
+            utility.UC5_MonthlyWage(); 
+            break;
 
-                    Console.Write("Enter Working Hours: ");
-                    int ftHours = Convert.ToInt32(Console.ReadLine());
-
-                    Employee fullTime = new FullTimeEmployee(ftWage, ftHours);
-                    Console.WriteLine("Full Time Daily Wage: " + fullTime.CalculateWage());
-                    break;
-
-                case 3:
-                    Console.Write("Enter Wage Per Hour: ");
-                    int ptWage = Convert.ToInt32(Console.ReadLine());
-
-                    Console.Write("Enter Working Hours: ");
-                    int ptHours = Convert.ToInt32(Console.ReadLine());
-
-                    Employee partTime = new PartTimeEmployee(ptWage, ptHours);
-                    Console.WriteLine("Part Time Daily Wage: " + partTime.CalculateWage());
-                    break;
-
-                case 4:
-                    Console.Write("Enter Daily Wage: ");
-                    int dailyWage = Convert.ToInt32(Console.ReadLine());
-
-                    Console.Write("Enter Working Days: ");
-                    int workingDays = Convert.ToInt32(Console.ReadLine());
-
-                    Console.WriteLine(
-                        "Monthly Wage: " +
-                        utility.CalculateMonthlyWage(dailyWage, workingDays)
-                    );
-                    break;
-
-                case 5:
-                    Console.Write("Enter Wage Per Hour: ");
-                    int wagePerHour = Convert.ToInt32(Console.ReadLine());
-
-                    Console.Write("Enter Max Hours: ");
-                    int maxHours = Convert.ToInt32(Console.ReadLine());
-
-                    Console.Write("Enter Max Days: ");
-                    int maxDays = Convert.ToInt32(Console.ReadLine());
-
-                    Console.WriteLine(
-                        "Total Wage Till Condition: " +
-                        utility.CalculateWageTillCondition(wagePerHour, maxHours, maxDays)
-                    );
-                    break;
-
-                case 0:
-                    Console.WriteLine("Thank You!");
-                    return;
-
-                default:
-                    Console.WriteLine("Invalid Choice!");
-                    break;
-            }
-
-            Console.WriteLine("\n-----------------------------------------\n");
-            ShowMenu();
+            case 6: 
+            utility.UC6_WageTillCondition(); 
+            break;
+            
+            case 0:
+                Console.WriteLine("Thank You!");
+                return;
+            default:
+                Console.WriteLine("Invalid Choice!");
+                break;
         }
+
+        Console.WriteLine("\n-----------------------------\n");
+        ShowMenu();
     }
 }

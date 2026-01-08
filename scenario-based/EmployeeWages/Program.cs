@@ -1,12 +1,13 @@
-﻿using UI;
+﻿using System;
 
-namespace EmployeeWageProject
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            EmployeeUI.StartApplication();
-        }
+        Console.WriteLine("=================================");
+        Console.WriteLine(" Employee Wage Computation ");
+        Console.WriteLine("=================================\n");
+
+        EmployeeMenu.ShowMenu();
     }
 }
