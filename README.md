@@ -19,3 +19,6 @@ Completed the assignment of Encapsulation, Polymorphism, Interface and Abstract 
 08/01/2026
 Topics covered are linked list
 Completed the questions given on Linked List
+
+12/01/2026
+Completed the given scenario based Questions on OOPs and DSA
