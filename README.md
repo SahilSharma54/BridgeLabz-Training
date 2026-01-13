@@ -22,3 +22,6 @@ Completed the questions given on Linked List
 
 12/01/2026
 Completed the given scenario based Questions on OOPs and DSA
+
+13/01/2026
+Completed the given scenario based on oops
