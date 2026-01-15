@@ -108,5 +108,10 @@ Completed assignments on Linear Search and Binary Search.
 📅 14/01/2026
 
 Completed assignments on algorithm analysis.
-
 Analyzed time complexity of various operations.
+
+📅 14/01/2026
+
+Completed the given scenario based question given on Data Structures
+Completed the given scenario based question given on OOPs Structure
+
