@@ -118,3 +118,8 @@ Completed the given scenario based question given on OOPs Structure
 📅 16/01/2026
 
 Completed the given scenario based questions using Linked List and OOPs
+
+📅 17/01/2026
+
+Completed the given scenario based on Bubble sort and Quick sort
+
