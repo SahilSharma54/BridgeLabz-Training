@@ -123,3 +123,7 @@ Completed the given scenario based questions using Linked List and OOPs
 
 Completed the given scenario based on Bubble sort and Quick sort
 
+📅 19/01/2026
+
+Completed the given scenario based using linked list and stack(Implemented using Arrays)
+
