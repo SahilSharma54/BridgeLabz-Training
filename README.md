@@ -127,3 +127,6 @@ Completed the given scenario based on Bubble sort and Quick sort
 
 Completed the given scenario based using linked list and stack(Implemented using Arrays)
 
+📅 20/01/2026
+
+Completed the given scenario based using Data Structure
