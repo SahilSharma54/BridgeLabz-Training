@@ -130,3 +130,5 @@ Completed the given scenario based using linked list and stack(Implemented using
 📅 20/01/2026
 
 Completed the given scenario based using Data Structure
+Completed the assignment on Csharp generics
+
