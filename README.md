@@ -137,3 +137,8 @@ Completed the assignment on Csharp generics
 Completed the given assignment using collections in csharp
 Completed the given scenario based using queue and dictionary
 
+📅 22/01/2026
+
+Completed the given scenario based question using circular linked list
+Completed the given assignment on c# streams topics
+
