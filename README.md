@@ -142,3 +142,6 @@ Completed the given scenario based using queue and dictionary
 Completed the given scenario based question using circular linked list
 Completed the given assignment on c# streams topics
 
+📅 23/01/2026
+Completed the assignment on the topic of exceptions in csharp
+
