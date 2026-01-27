@@ -143,5 +143,10 @@ Completed the given scenario based question using circular linked list
 Completed the given assignment on c# streams topics
 
 📅 23/01/2026
+
 Completed the assignment on the topic of exceptions in csharp
 
+📅 27/01/2026
+
+Completed the given assignment on Regex and Nunit Testing
+Completed the given assignment on Reflections and Annotations
