@@ -1,0 +1,11 @@
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\bin\Debug\net8.0\CoreLibrary.deps.json
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\bin\Debug\net8.0\CoreLibrary.dll
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\bin\Debug\net8.0\CoreLibrary.pdb
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\obj\Debug\net8.0\CoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\obj\Debug\net8.0\CoreLibrary.AssemblyInfoInputs.cache
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\obj\Debug\net8.0\CoreLibrary.AssemblyInfo.cs
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\obj\Debug\net8.0\CoreLibrary.csproj.CoreCompileInputs.cache
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\obj\Debug\net8.0\CoreLibrary.dll
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\obj\Debug\net8.0\refint\CoreLibrary.dll
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\obj\Debug\net8.0\CoreLibrary.pdb
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary\obj\Debug\net8.0\ref\CoreLibrary.dll

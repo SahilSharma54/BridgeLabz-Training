@@ -1,0 +1,7 @@
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_CoreLibrary.Tests
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_CoreLibrary.Tests
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary.Tests\obj\Debug\net10.0\CoreLibrary.Tests.csproj.AssemblyReference.cache
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary.Tests\obj\Debug\net10.0\CoreLibrary.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary.Tests\obj\Debug\net10.0\CoreLibrary.Tests.AssemblyInfoInputs.cache
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary.Tests\obj\Debug\net10.0\CoreLibrary.Tests.AssemblyInfo.cs
+D:\College\Capgemini Traning\Notes of Class\In lab Experience\MODULE 2\Day 18\Advanced C# wala parrt\Testing\CoreLibrary.Tests\obj\Debug\net10.0\CoreLibrary.Tests.csproj.CoreCompileInputs.cache
