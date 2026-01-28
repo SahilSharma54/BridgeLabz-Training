@@ -150,3 +150,6 @@ Completed the assignment on the topic of exceptions in csharp
 
 Completed the given assignment on Regex and Nunit Testing
 Completed the given assignment on Reflections and Annotations
+
+28/01/2026
+Completed the given scenario based using Annotations, Reflections and JSON
