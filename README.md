@@ -158,3 +158,6 @@ Completed the given scenario based using Annotations, Reflections and JSON
 📅 29/01/2026
 
 Completed the given assignment on the topics on CSV file Handling
+
+02/02/2026
+Completed the given assignment on the topic of JSON in C#
